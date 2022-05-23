@@ -1,0 +1,56 @@
+#border{
+
+    border:10em solid transparent;
+    border-image-source:url("./border1.jpg");
+    border-image-width: 150px;
+    border-image-slice: 33%;
+    border-image-repeat: round;
+  
+  }
+
+  body {
+    background-color:  #f3e8cd;
+  }
+
+
+.box{
+    
+    border-style: double;
+    border-width: 12px;
+    padding: 10px;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 5%;
+        margin-bottom: 5%;  
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+    max-width: 90%;
+    height: auto;
+    width: 90%;
+  }
+
+  h1{
+      text-align: center;
+      
+  }
+
+  h2{
+      text-align: center;
+      
+  }
+
+  p{
+    text-align: center; 
+  }
+  .audio{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+   
+  
+  }
+  
